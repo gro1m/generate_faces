@@ -25,8 +25,8 @@ ssh -i  <your key name>.pem ubuntu@<IPv4 public IP address displayed on EC2 Dash
 ```
 2. Clone the repository and navigate to the project folder:
 ```	
-git clone https://github.com/gro1m/simpsons_tv_script.git
-cd simpsons_tv_script
+git clone https://github.com/gro1m/generate_faces.git
+cd generate_faces
 ```
 3. Install requirements from requirements.txt:
 ```
